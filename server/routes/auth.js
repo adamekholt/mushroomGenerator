@@ -1,0 +1,1 @@
+//handles the end points for signing up, sign in and sign in as guest.

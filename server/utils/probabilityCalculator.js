@@ -1,0 +1,1 @@
+//A function that will give a result based on weather and map data.

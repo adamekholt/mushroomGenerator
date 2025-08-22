@@ -1,0 +1,1 @@
+//Will handle the model for saving a logged in users search results. 
